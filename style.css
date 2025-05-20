@@ -20,7 +20,7 @@ body {
 }
 .container {
   padding: 30px 40px;
-  background-color: #FF0000;
+  background-color: transparent;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
   border-radius: 0.8em;
 }
