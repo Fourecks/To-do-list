@@ -7,7 +7,7 @@
 }
 body {
   height: 100vh;
-  background: linear-gradient(#ffd55c 50%, #5a95ff 50%);
+  background: transparent;
 }
 .app {
   font-family: "Poppins", sans-serif;
@@ -43,7 +43,7 @@ body {
 }
 #wrapper input:focus {
   outline: none;
-  border-color: #5a95ff;
+  border-color: #FF0000;
 }
 #wrapper button {
   position: relative;
@@ -51,7 +51,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 1em;
-  background-color: #5a95ff;
+  background-color: #FF0000;
   border: none;
   color: #ffffff;
   cursor: pointer;
@@ -94,8 +94,8 @@ body {
   left: 50%;
 }
 .task input[type="checkbox"]:checked {
-  background-color: #5a95ff;
-  border-color: #5a95ff;
+  background-color: #FF0000;
+  border-color: #FF0000;
 }
 .task input[type="checkbox"]:checked:before {
   position: absolute;
@@ -120,13 +120,13 @@ body {
   outline: none;
 }
 .edit {
-  background-color: #5a95ff;
+  background-color: #FF0000;
 }
 .delete {
   background-color: #ff5c5c;
 }
 #pending-tasks span {
-  color: #5a95ff;
+  color: #FF0000;
 }
 .completed {
   text-decoration: line-through;
