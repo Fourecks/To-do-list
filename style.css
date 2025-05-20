@@ -135,8 +135,8 @@ body {
 #error {
   text-align: center;
   display: none;
-  background-color: #000000;
-  color: #ff5c5c;
+  background-color: transparent;
+  color: #FFFFFF;
   margin-top: 1.5em;
   padding: 1em 0;
   border-radius: 0.5em;
