@@ -130,7 +130,7 @@ body {
 }
 .completed {
   text-decoration: line-through;
-  color: #a0a0a0;
+  color: #FFFFFF;
 }
 #error {
   text-align: center;
