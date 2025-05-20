@@ -35,7 +35,7 @@ body {
   width: 100%;
   font-family: "Poppins", sans-serif;
   background-color: transparent;
-  color: #111111;
+  color: #FFFFFF;
   font-size: 0.9em;
   border: none;
   border-bottom: 2px solid #d1d3d4;
@@ -51,7 +51,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 1em;
-  background-color: #FFFFFF;
+  background-color: #FF0000;
   border: none;
   color: #ffffff;
   cursor: pointer;
@@ -135,7 +135,7 @@ body {
 #error {
   text-align: center;
   display: none;
-  background-color: #ffffff;
+  background-color: #000000;
   color: #ff5c5c;
   margin-top: 1.5em;
   padding: 1em 0;
