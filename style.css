@@ -128,6 +128,9 @@ body {
 #pending-tasks span {
   color: #ff0000;
 }
+#pending-tasks {
+  color: #ffffff
+}
 .completed {
   text-decoration: line-through;
   color: #FFFFFF;
