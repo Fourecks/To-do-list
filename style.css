@@ -7,7 +7,7 @@
 }
 body {
   height: 100vh;
-  background: linear-gradient(#ffd55c 50%, #5a95ff 50%);
+  background: transparent;
 }
 .app {
   font-family: "Poppins", sans-serif;
