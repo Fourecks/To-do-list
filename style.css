@@ -100,7 +100,7 @@ body {
 .task input[type="checkbox"]:checked:before {
   position: absolute;
   content: "\f00c";
-  color: #ffffff;
+  color: #FF0000;
   font-size: 0.8em;
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
@@ -111,7 +111,7 @@ body {
   word-break: break-all;
 }
 .task button {
-  color: #ffffff;
+  color: #FF0000;
   width: 100%;
   padding: 1em 0;
   border-radius: 5px;
@@ -135,7 +135,7 @@ body {
 #error {
   text-align: center;
   display: none;
-  background-color: #ffffff;
+  background-color: #FF0000;
   color: #ff5c5c;
   margin-top: 1.5em;
   padding: 1em 0;
