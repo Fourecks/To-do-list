@@ -100,7 +100,7 @@ body {
 .task input[type="checkbox"]:checked:before {
   position: absolute;
   content: "\f00c";
-  color: #000000;
+  color: #ff0000;
   font-size: 0.8em;
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
@@ -133,7 +133,7 @@ body {
 }
 .completed {
   text-decoration: line-through;
-  color: #FFFFFF;
+  color: #000000;
 }
 #error {
   text-align: center;
