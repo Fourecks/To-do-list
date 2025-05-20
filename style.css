@@ -120,10 +120,10 @@ body {
   outline: none;
 }
 .edit {
-  background-color: #5a95ff;
+  background-color: #FF0000;
 }
 .delete {
-  background-color: #ff5c5c;
+  background-color: #FF0000;
 }
 #pending-tasks span {
   color: #5a95ff;
