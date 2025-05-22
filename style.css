@@ -43,7 +43,7 @@ body {
 }
 #wrapper input:focus {
   outline: none;
-  border-color: #FF0000;
+  border-color: #FFFFFF;
 }
 #wrapper button {
   position: relative;
@@ -51,9 +51,9 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 1em;
-  background-color: #FF0000;
+  background-color: #FFFFFF;
   border: none;
-  color: #ffffff;
+  color: #000000;
   cursor: pointer;
   outline: none;
 }
@@ -94,13 +94,13 @@ body {
   left: 50%;
 }
 .task input[type="checkbox"]:checked {
-  background-color: #FF0000;
-  border-color: #FF0000;
+  background-color: #000000;
+  border-color: #FFFFFF;
 }
 .task input[type="checkbox"]:checked:before {
   position: absolute;
   content: "\f00c";
-  color: #ff0000;
+  color: #FFFFFF;
   font-size: 0.8em;
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
@@ -120,13 +120,13 @@ body {
   outline: none;
 }
 .edit {
-  background-color: #FF0000;
+  background-color: #FFFFFF;
 }
 .delete {
-  background-color: #ff5c5c;
+  background-color: #FFFFFF;
 }
 #pending-tasks span {
-  color: #ff0000;
+  color: #FFFFFF;
 }
 #pending-tasks {
   color: #ffffff
